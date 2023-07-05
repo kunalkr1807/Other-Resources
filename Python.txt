@@ -1,0 +1,89 @@
+
+
+1. 
+ # py-str varname.tab to get all possible inbuilt function.
+ # to iterate over an iterable object we use iter() function.
+ # to get null values from rows we use loc,iloc,iax function
+ # difference in loc & iloc is ,loc is label-based(needs to specify row & column labels)
+   while iloc is int-position based (needs to specify row & column by 
+   the integer position values,starting with 0)
+ # differ B/W series & list :
+  1. -ve index doesn't exist in series but we can access -ve index in list.
+ # describe() gives a basic statistical overview of dataset 
+ # ILoc(Integer Location) Function - helps us to select a specific row or column from the data set by checking the .
+ # In Named Index when we try to access the value using Iloc function,it shows error because it access the data 
+   through by default index while creating array,Where In case of loc function it allows to access the data.
+ # pandas has 2 data structure 
+   1. Series is 1-d data structure while 2. DataFrame is 2-d Data structure.
+
+Q1. what is differ between changing axis & Transposing the dataframe ?. 
+
+
+num=user i/p
+rev=0 - variable to store o/p
+digit=num%10 
+rev=(rev*10) + digit
+num = num // 10
+
+  # 2.
+ 
+NOTE - ONLY In case of for-else,else part only executes when for loop 
+  portion is completely executed without an exception.
+                     
+ - series is equivalent to list , subset of dataframe
+    - it's 1 unit of record represented in a sequence. 
+ -if we pass the column as it is with variable name its data  type will be series   
+and if we pass as list then its datatype becomes datatype 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
